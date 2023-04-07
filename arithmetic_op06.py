@@ -7,3 +7,9 @@
 #Print the answer.
  
 #Print the number.
+
+number=int(input())
+number=number/2
+answer=number-int(number)
+print(answer)
+print(number)
