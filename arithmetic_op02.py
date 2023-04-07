@@ -3,3 +3,7 @@
 #Create a variable 'answer' and assign it the sum of the number's digits.
 
 #Print the vallue of the 'answer'.
+
+x=43
+answer=x//10+x%10
+print(answer)
