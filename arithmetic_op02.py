@@ -4,6 +4,6 @@
 
 #Print the vallue of the 'answer'.
 
-x=43
-answer=x//10+x%10
+number=43
+answer=number//10+number%10
 print(answer)
